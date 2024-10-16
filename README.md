@@ -88,7 +88,4 @@ Ce projet démontre l'importance d'un Data Warehouse pour centraliser et analyse
 ## Auteurs
 - *Fettah Sad*
 
-## License
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-Pour toute question, contactez les auteurs de ce projet.
