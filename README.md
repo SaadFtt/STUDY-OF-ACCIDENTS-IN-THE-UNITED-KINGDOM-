@@ -37,7 +37,7 @@ La base de données est modélisée en plusieurs niveaux, offrant une vue d'ense
 #### 3.2 Modélisation Multidimensionnelle
 Nous avons structuré notre modèle en suivant des schémas *en étoile* et *en flocon*, afin d'améliorer la facilité d'analyse.
 
-![Schéma de Modélisation](<img width="531" alt="image" src="https://github.com/user-attachments/assets/7e72d58e-20de-48c1-b3d3-01e62e98b874">
+![Schéma de Modélisation](<img width="531" alt="image" src="https://github.com/user-attachments/assets/7e72d58e-20de-48c1-b3d3-01e62e98b874">)
 ) <!-- Remplacez par une image réelle -->
 ![modele en flocon de neige](https://github.com/user-attachments/assets/49491c0c-33f0-4660-b6e4-a41ca3c16eea)
 
@@ -65,7 +65,7 @@ Pour l'intégration, nous utilisons *Talend OpenStudio* pour extraire, transform
 Pour faciliter l'interprétation, des tableaux de bord interactifs ont été créés à l'aide de *Power BI*. Ces visualisations permettent de suivre les tendances et d’explorer les données selon différents axes d'analyse.
 
 ![Tableau de Bord Power BI:analyse d’accident]((https://github.com/user-attachments/assets/f0906316-150a-4bb1-a6fc-cc5f119e6ae6))
-![Tableau de Bord Power BI:analyse des taux](https://github.com/user-attachments/assets/72afa781-9034-4d3f-8acc-f7290cd4d816)
+![Tableau de Bord Power BI:analyse des taux](https://github.com/user-attachments/assets/72afa781-9034-4d3f-8acc-f7290cd4d816))
 
 <!-- Remplacez par une image réelle -->
 
